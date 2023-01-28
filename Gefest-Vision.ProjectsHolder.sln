@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gefest-Vision.ProjectsHolder", "Gefest-Vision.ProjectsHolder\Gefest-Vision.ProjectsHolder.csproj", "{CDD35616-E93F-465F-8E45-ED27BBD72A34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD35616-E93F-465F-8E45-ED27BBD72A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD35616-E93F-465F-8E45-ED27BBD72A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD35616-E93F-465F-8E45-ED27BBD72A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD35616-E93F-465F-8E45-ED27BBD72A34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
